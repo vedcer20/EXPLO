@@ -9,8 +9,6 @@
 <link>https://www.kaggle.com/datamunge/sign-language-mnist</link>
 
 
-<h2>How to run</h2>
-<p>Run ROIinOpenCV.py</p>
 
 
 
